@@ -20,15 +20,18 @@ We propose MAEDE for probabilistic forecasting of regional private car activity.
 
 ---
 
-## 📊 Dataset Information
+
 <p align="center">
   <img src="private_car_trip_dataset.png" />
 </p>
+
+## 📊 Dataset Information
 We collected a large-scale private car trip dataset from three provincial capital cities in China: **Changsha**, **Guangzhou**, and **Shenzhen**. The data spans **March 1 to August 27, 2024**, and contains **1,871,959 trip records**.
 
 The dataset reflects Arrive-Stay-Leave (ASL) behavior aggregated at the regional level and is used to train and evaluate regional activity prediction.
 
 Due to privacy concerns, only partial (anonymized) data samples are included in this repository. For detailed dataset statistics and processing logic, refer to **Appendix A** of the paper.
+
 
 ### 🔐 Data Privacy & Ethics
 We are acutely aware of the privacy implications of using mobility data for behavioral modeling. The following measures were strictly followed:
