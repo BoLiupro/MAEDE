@@ -6,7 +6,7 @@
 By leveraging a **conditional diffusion backbone**, **LLM-enhanced visual-textual contrastive learning**, and a **multi-granularity self-guiding mechanism**, MAEDE captures both fine-grained variations and high-level temporal trends, outperforming state-of-the-art baselines.
 
 <p align="center">
-  <img src="framework.pdf" />
+  <img src="framework.png" />
 </p>
 
 ### 📄 Abstract
