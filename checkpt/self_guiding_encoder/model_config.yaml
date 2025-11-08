@@ -1,0 +1,4 @@
+dropout: 0.2
+embed_dim: 32
+end_dim: 64
+mask_ratio: 0.75
