@@ -31,7 +31,7 @@ We collected a large-scale private car trip dataset from three provincial capita
 
 The dataset reflects Arrive-Stay-Leave (ASL) behavior aggregated at the regional level and is used to train and evaluate regional activity prediction.
 
-Due to privacy concerns, only partial (anonymized) data samples are included in this repository. For detailed dataset statistics and processing logic, refer to **Appendix A** of the paper.
+Due to privacy concerns, only partial (anonymized) data samples are included in this repository.
 
 
 ### 🔐 Data Privacy & Ethics
