@@ -54,6 +54,7 @@ def GeoFuse(zoom, latitude_start, latitude_stop, longitude_start, longitude_stop
 
 
 def main():
+    # example
     nodes = {
         56: [216, 217, 241, 265, 291, 292, 293, 316, 317, 341, 342, 366, 367, 368, 391, 392, 393, 416, 417, 418, 441,
              442, 443, 467],
