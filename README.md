@@ -63,7 +63,7 @@ python multi_gran_generator.py
 ```bash
 cd self_guiding_encoder
 python train.py --config configs/train_encoder.yaml
-python test.py --ckpt checkpoints/encoder_best.pt
+python test.py --ckpt checkpoints/self_guiding_encoder.pt
 ```
 
 ### 4. Apply Soft Attention to Fuse Multi-Granularity Features
@@ -81,7 +81,7 @@ python train.py --config configs/train_mgd.yaml
 
 ## 📁 Directory Structure
 ```
-├── llm_clip/                  # ViT + LLM-based encoder
+├── llm_enhanced_clip/                  # ViT + LLM-based encoder
 ├── multi_granularity_diffusion/  # diffusion model training
 ├── self_guiding_encoder/     # gated wavenet encoder
 ├── soft_attention/           # fusion module
